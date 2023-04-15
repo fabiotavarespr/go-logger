@@ -1,11 +1,11 @@
 module github.com/fabiotavarespr/go-logger
 
-go 1.19
+go 1.20
 
 require (
-	github.com/fabiotavarespr/go-env v0.0.3
+	github.com/fabiotavarespr/go-env v0.0.4
 	github.com/pkg/errors v0.9.1
-	go.uber.org/zap v1.22.0
+	go.uber.org/zap v1.24.0
 )
 
 require (
